@@ -1,2 +1,2 @@
-# tic-tac-toe1
+# index.html
 it is game 
